@@ -1,0 +1,5 @@
+lab2/InvertedIndex$InvertedIndexReducer.class
+lab2/InvertedIndex$InvertedIndexPartitioner.class
+lab2/InvertedIndex.class
+lab2/InvertedIndex$InvertedIndexCombiner.class
+lab2/InvertedIndex$InvertedIndexMapper.class
